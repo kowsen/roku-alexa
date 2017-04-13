@@ -1,0 +1,34 @@
+{
+	"intents": [
+		{
+			"intent": "SearchShow"
+		},
+		{
+			"intent": "GetSeason"
+		},
+		{
+			"intent": "GetEpisode"
+		},
+		{
+			"intent": "AskTitle"
+		},
+		{
+			"intent": "AskContinue"
+		},
+		{
+			"intent": "Farewell"
+		}
+	]
+}
+
+Text (show, seasonRandom, episodeRandom)
+yesno (continue, your show)
+number (season, episode)
+
+{
+	"intents": [
+		{
+			"intent": ""
+		}
+	]
+}
